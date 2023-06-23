@@ -1,3 +1,2 @@
 scrapy
 scrapy_autoextract
-scrapy-zyte-api
